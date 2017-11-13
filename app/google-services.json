@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470931872479",
+    "project_id": "nearplace-185517"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470931872479:android:3ee558a052c69fe8",
+        "android_client_info": {
+          "package_name": "com.sabututexp.nearplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470931872479-qihbqgmjmfb4vgknshllpk16g36m44rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sabututexp.nearplace",
+            "certificate_hash": "7e1c5d9b99356c493cc8c94ebb9b3454cfef96c2"
+          }
+        },
+        {
+          "client_id": "470931872479-getrbf8i77i4l6dj2c017ochfb42n6d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTdsFUL8p1Z8d1XxrvYCB-pWfvUnHCvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
